@@ -1,0 +1,40 @@
+- name: Undergraduate
+  url: undergraduate
+
+
+- name: Postgraduate
+  url: postgraduate
+  members:
+  - name: Yiming Peng
+    email:
+
+
+- name: Postdoctoral
+  url: postdoctor
+  members:
+  - name: Lie-Meng Pang
+    email: panglm@sustech.edu.cn
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050317253951.png
+
+
+
+
+- name: Research Assistant
+  url: research_assistant
+
+
+- name: Research Assistant Professor
+  url: research_assistant_professor
+  members:
+  - name: 张晋媛
+    email: zhangjy0719@gmail.com
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2019/10/2019103016035325.png
+
+  - name: Ke Shang
+    email: kshang@foxmail.com
+    photo: http://faculty.sustech.edu.cn/wp-content/uploads/2018/05/2018050314171061.png
+
+
+- name: Past members
+  url: past_members
+
